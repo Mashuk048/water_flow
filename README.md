@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries, please contact Md. Mashuk E-lahi(mail to:meer.mashuk048@gmail.com).
 
