@@ -1,5 +1,5 @@
 
-const int SENSOR = 5;//
+const int SENSOR = 5;// sensor pin
 long currentMillis = 0;//
 long previousMillis = 0;//
 int interval = 1000;//
